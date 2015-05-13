@@ -4,7 +4,7 @@ class RandomNumbersInGivenRange
 {
     static void Main()
     {
-        Console.WriteLine("Enter integers for n, min and max, where (min ≤ max) :");
+        Console.WriteLine("Enter integers - n, min and max, where (min ≤ max) :");
         int n = int.Parse(Console.ReadLine());
         int min = int.Parse(Console.ReadLine());
         int max = int.Parse(Console.ReadLine());
